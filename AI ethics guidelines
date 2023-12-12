@@ -1,0 +1,24 @@
+#AI ethics guidelines
+1 Transparency -
+promote transparency in the development and deployment of AI system.
+Clearly communicate the capabilities and limitations of AI systems to users and stakeholders.
+Make algorithms and decision-making processes understandable and explainable.
+
+2 Fairness and bias - 
+Ensure Fairness in AI systems by avoiding bias in data and algorithms.
+Regularly assess and mitigate biases throughout the AI system's lifecycle.
+Prioritize the fair treatment of all individuals, regardless of demographic characteristics.
+
+3 Privacy - 
+uphold privacy rights and protect personal data throughout the AI lifecycle.
+Implement privacy-preserving measures in the design and deployment of AI system.
+obtain informed consent when collecting and using personal data.
+
+4 Accountability -
+Establish clear lines of responsibility for the development and deployment of AI system.
+Design AI system to be accountable for their actions, and provide mechanisms for redress in case of errors or harm.
+Monitor and evaluate the impact of AI system on individuals and society.
+
+5 Security - 
+Prioritize the security of AI system to prevent unauthorized access and manipulation.
+Regularly update and patch AI systems to address vulnerabilities.
