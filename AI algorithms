@@ -1,0 +1,20 @@
+#Responsible AI algorithms
+1 Transparency - 
+Explainability : make AI algorithms more understandable and interpretable by providing explanations for their decisions and actions.
+Openness : share information about the design, functioning, and outcomes of AI algorithms with relevant stakeholders, subject to privacy and security constraints.
+
+2 Accountability - 
+Responsibility assignment : clearly define and assign responsibilities for the development, deployment and outcomes of AI algorithms.
+Redress mechanisms : implement mechanisms for addressing and correcting errors or harm caused by AI algorithms, including channels for affected individuals to seek redress.
+
+3 Privacy - 
+Data protection : design AI algorithms with privacy-preserving features to protect sensitive information.
+Informed consent : obtain informed consent when collecting and using personal data for AI Purposes.
+
+4 Security - 
+Secure design : prioritize the security of AI algorithms to prevent vulnerabilities and unauthorized access.
+Regular updates : keep algorithms up to date with security patches to address emerging threats.
+
+5 Human-in-the-loop - 
+Human oversight : include human oversight in decision-making processes, especially in critical contexts.
+Human Augmentation : Design AI algorithms to enhance human capabilities rather than replace human decision-makers entirely.
